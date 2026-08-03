@@ -219,18 +219,13 @@ Dashboard Visualization
 
 ## Fraud Detection Dashboard
 
-![Fraud](screenshots/fraud_dashboard.png)
+<img width="1897" height="858" alt="image" src="https://github.com/user-attachments/assets/1cf6a294-c4bd-4ef4-a6ff-8dc9a496c055" />
+
+<img width="1853" height="874" alt="image" src="https://github.com/user-attachments/assets/6e07b6a2-e25e-4159-981b-c438d7181ad1" />
+
 
 ---
 
-# 🎥 Project Demo
-
-> Upload your demo to YouTube or Google Drive and replace the link below.
-
-**Video Demo:**  
-https://YOUR_VIDEO_LINK_HERE
-
----
 
 # 📁 Project Structure
 
