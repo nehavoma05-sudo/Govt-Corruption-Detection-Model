@@ -395,19 +395,6 @@ GET /fraud-results
 
 ---
 
-# 👨‍💻 Contributors
-
-- **Neha Voma**
-- Backend Development
-- Database Design
-- AI Integration
-- Fraud Detection Module
-
----
-
-# ⭐ If you like this project
-
-Give the repository a ⭐ on GitHub.
 
 ---
 
