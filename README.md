@@ -4,11 +4,8 @@
   <img src="screenshots/main_dashboard.png" alt="Main Dashboard" width="90%">
 </p>
 
-<p align="center">
-  <a href="YOUR_VIDEO_DEMO_LINK">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20Project%20Demo-Click%20Here-red?style=for-the-badge">
-  </a>
-</p>
+# Demo
+https://github.com/user-attachments/assets/08b974da-09aa-4f56-b108-f0444bc54975
 
 ---
 
