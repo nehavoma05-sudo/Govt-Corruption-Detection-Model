@@ -211,9 +211,8 @@ Dashboard Visualization
 
 ## Citizen Portal
 
-<img width="1886" height="525" alt="image" src="https://github.com/user-attachments/assets/189ccabe-62ad-4d71-986e-a8e701a2ac3d" />
-
 <img width="1883" height="847" alt="image" src="https://github.com/user-attachments/assets/02ad8c4f-4f3a-4894-9132-270a976930c6" />
+<img width="1886" height="525" alt="image" src="https://github.com/user-attachments/assets/189ccabe-62ad-4d71-986e-a8e701a2ac3d" />
 
 
 ---
