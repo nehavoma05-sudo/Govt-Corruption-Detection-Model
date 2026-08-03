@@ -187,27 +187,34 @@ Dashboard Visualization
 
 # 📸 Screenshots
 
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## Government Agent Portal
 
-![Government](screenshots/gov_agent.png)
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/526fc9e2-d516-4b34-9dca-233e18035750" />
+
 
 ---
 
 ## Contractor Portal
 
-![Contractor](screenshots/contractor.png)
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/abc347dd-409f-4eb8-a75f-483620bd2ed0" />
+
 
 ---
 
 ## Inspection Officer Portal
 
-![Inspection](screenshots/inspection.png)
+<img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/8583f870-dfed-4be0-8d0f-1b1d190db474" />
+
+
+---
+
+## Citizen Portal
+
+<img width="1886" height="525" alt="image" src="https://github.com/user-attachments/assets/189ccabe-62ad-4d71-986e-a8e701a2ac3d" />
+
+<img width="1883" height="847" alt="image" src="https://github.com/user-attachments/assets/02ad8c4f-4f3a-4894-9132-270a976930c6" />
+
 
 ---
 
