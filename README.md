@@ -1,10 +1,9 @@
 # 🏛️ Government Corruption Detection & Monitoring System
 
-<p align="center">
-  <img src="screenshots/main_dashboard.png" alt="Main Dashboard" width="90%">
-</p>
+<img width="1901" height="867" alt="image" src="https://github.com/user-attachments/assets/31fa012e-3920-4e1f-91d1-650c42dd69e3" />
 
-# Demo
+
+# 📷 Working Demo
 https://github.com/user-attachments/assets/08b974da-09aa-4f56-b108-f0444bc54975
 
 ---
